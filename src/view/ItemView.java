@@ -12,8 +12,10 @@ import javax.swing.table.DefaultTableModel;
 
 public class ItemView extends javax.swing.JFrame {
 
+
     public ItemView() {
         initComponents();
+        loadTable();
 
     }
 
@@ -230,6 +232,9 @@ public class ItemView extends javax.swing.JFrame {
     private javax.swing.JTextField txtUnit;
     // End of variables declaration//GEN-END:variables
 
+    privaye void loadTable() {
+        String
+    }
 
 
 
